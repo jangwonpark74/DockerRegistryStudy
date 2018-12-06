@@ -1,5 +1,8 @@
 # DockerRegistryStudy
 
+## Step by step guide to setup CI/CD with Docker Registry
+ - [Docker Regsitry Setup Guide](https://gist.github.com/DenisIzmaylov/88a50819f75f54eb6ad6237b308f2ce0)
+
 ## Docker Open Source Registry 2.0 
  - [Docker Distribution](https://github.com/docker/distribution)
 
