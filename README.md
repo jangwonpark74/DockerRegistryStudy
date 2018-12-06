@@ -1,5 +1,8 @@
 # DockerRegistryStudy
 
+## Docker Registry Official Manual
+ - [Ubuntu Manual](https://docs.docker.com/install/linux/docker-ce/ubuntu/#uninstall-old-versions)
+
 ## Step by step guide to setup CI/CD with Docker Registry
  - [Docker Regsitry Setup Guide](https://gist.github.com/DenisIzmaylov/88a50819f75f54eb6ad6237b308f2ce0)
 
